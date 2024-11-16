@@ -1,0 +1,639 @@
+[2024-11-15 20:22:11] Error: Dirección inválida 'subrir'. Use 'subir' o 'bajar'.
+[2024-11-15 20:22:25] Botón 'Subida' presionado en el piso 9
+[2024-11-15 20:22:25] Evento: Botón 'Subida' presionado en piso 9
+[2024-11-15 20:22:25] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:22:25] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:22:25] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:22:25] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:31:18] Botón 'Subida' presionado en el piso 9
+[2024-11-15 20:31:18] Evento: Botón 'Subida' presionado en piso 9
+[2024-11-15 20:31:18] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:31:18] Ascensor 0 solicitado para el piso 9 en dirección 'subir'.
+[2024-11-15 20:31:18] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:31:18] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:31:18] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:31:18] Ascensor 0: Puerta abierta automáticamente en el piso 9.
+[2024-11-15 20:31:18] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:31:18] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:31:18] Ascensor 0: Puerta cerrada automáticamente.
+[2024-11-15 20:33:17] Botón 'Subida' presionado en el piso 9
+[2024-11-15 20:33:17] Evento: Botón 'Subida' presionado en piso 9
+[2024-11-15 20:33:17] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:33:17] Ascensor 0 solicitado para el piso 9 en dirección 'subir'.
+[2024-11-15 20:33:17] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:33:17] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:33:17] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:33:17] Ascensor 0: Puerta abierta automáticamente en el piso 9.
+[2024-11-15 20:33:17] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:33:17] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:33:17] Ascensor 0: Puerta cerrada automáticamente.
+[2024-11-15 20:37:20] Ascensor 0 asignado. Dirección: subir.
+[2024-11-15 20:37:20] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:37:20] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:37:38] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:37:38] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:37:38] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:37:38] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:37:38] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:37:38] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:37:38] Puerta abierta manualmente.
+[2024-11-15 20:37:45] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:37:45] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:37:45] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:37:45] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:37:45] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:37:45] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:37:45] Puerta cerrada manualmente.
+[2024-11-15 20:40:01] Ascensor 0 asignado. Dirección: subir.
+[2024-11-15 20:40:01] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:40:01] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:40:02] Ascensor 0 en piso 1
+[2024-11-15 20:40:03] Ascensor 0 en piso 2
+[2024-11-15 20:40:04] Ascensor 0 en piso 3
+[2024-11-15 20:40:05] Ascensor 0 en piso 4
+[2024-11-15 20:40:06] Ascensor 0 en piso 5
+[2024-11-15 20:40:07] Ascensor 0 en piso 6
+[2024-11-15 20:40:08] Ascensor 0 en piso 7
+[2024-11-15 20:40:09] Ascensor 0 en piso 8
+[2024-11-15 20:40:10] Ascensor 0 en piso 9
+[2024-11-15 20:40:11] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 20:40:11] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:40:11] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:40:11] Ascensor 0: Puerta abierta automáticamente en el piso 0
+[2024-11-15 20:40:13] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:40:13] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:40:13] Ascensor 0: Puerta cerrada automáticamente.
+[2024-11-15 20:49:49] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:49:49] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:49:59] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 20:49:59] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:49:59] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:50:01] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:50:01] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:50:05] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:50:05] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:50:05] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:50:05] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:50:05] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:50:05] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:50:06] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:50:06] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:50:06] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:50:06] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:50:06] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:50:06] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:53:35] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:53:35] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:53:45] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 20:53:45] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:53:45] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:53:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:53:47] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:53:49] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:53:49] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:53:49] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:53:49] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:53:49] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:53:49] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:53:50] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:53:50] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:53:51] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:53:51] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:53:51] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:53:51] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:54:00] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-15 20:54:00] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-15 20:54:01] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 20:54:01] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:54:01] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:54:03] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:54:03] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:54:18] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-15 20:54:18] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:54:20] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 20:54:20] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:54:20] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:54:22] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:54:22] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:54:49] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 20:54:49] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 20:54:59] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 20:54:59] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:54:59] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:55:01] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:55:01] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:55:04] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:55:04] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:55:04] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:55:04] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:55:04] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 20:55:04] Evento: Puerta abierta automáticamente.
+[2024-11-15 20:55:05] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:55:05] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:55:05] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:55:05] Evento: Puerta cerrada automáticamente.
+[2024-11-15 20:55:05] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 20:55:05] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:03:56] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:03:56] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:04:06] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:04:06] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:04:06] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:04:08] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:04:08] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:04:20] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-15 21:04:20] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-15 21:04:21] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:04:21] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:04:21] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:04:23] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:04:23] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:13:59] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:13:59] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:14:00] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:14:01] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:14:03] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:14:04] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:14:05] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:14:06] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:14:07] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:14:08] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:14:09] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:14:10] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:14:10] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:14:10] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:14:10] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:14:12] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:14:12] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:14:21] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-15 21:14:21] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-15 21:14:22] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:14:23] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:14:24] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:14:25] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:14:26] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:14:27] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:14:28] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:14:29] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:14:30] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:14:30] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:14:30] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:14:30] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:14:32] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:14:32] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:14:35] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:14:35] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:14:35] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:14:35] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:14:35] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:14:35] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:14:36] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:14:36] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:14:36] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:14:36] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:14:36] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:14:36] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:24:17] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:24:17] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:24:18] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:24:19] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:24:20] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:24:21] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:24:22] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:24:23] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:24:24] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:24:25] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:24:26] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:24:27] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:24:27] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:24:27] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:27] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:29] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:24:29] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:24:33] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:33] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:33] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:33] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:33] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:33] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:33] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:24:33] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:24:33] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:24:33] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:24:33] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:24:33] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:24:49] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-15 21:24:49] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-15 21:24:50] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:24:51] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:51] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:51] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:51] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:51] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:24:51] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:24:51] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:27:15] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:27:15] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:27:16] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:27:17] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:27:18] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:27:19] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:27:20] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:27:21] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:27:22] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:27:23] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:27:24] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:24] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:24] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:24] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:24] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:24] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:24] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:27:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:25] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:25] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:25] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:25] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:27:25] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:27:25] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:25] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:27] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:27] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:28] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:28] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:28] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:28] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:28] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:28] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:30] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:30] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:30] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:30] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:30] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:27:30] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:27:31] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:31] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:31] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:31] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:27:31] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:27:31] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:33:44] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:33:44] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:33:45] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:33:46] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:33:47] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:33:48] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:33:49] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:33:50] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:33:51] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:33:52] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:33:53] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:33:54] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:33:54] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:33:54] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:33:54] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:33:56] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:33:56] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:34:16] Ascensor 0: Solicitud de piso 3 registrada.
+[2024-11-15 21:34:16] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-15 21:34:17] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:34:18] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:34:19] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:34:20] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:34:21] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:34:22] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:34:23] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:34:23] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:34:23] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:34:23] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:34:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:34:25] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:37:31] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:37:31] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:37:33] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:37:34] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:37:35] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:37:36] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:37:37] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:37:38] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:37:39] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:37:40] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:37:41] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:37:42] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:37:42] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:37:42] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:37:42] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:37:44] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:37:44] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:38:58] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:38:58] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:38:59] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:39:00] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:39:01] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:39:02] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:39:03] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:39:04] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:39:05] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:39:06] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:39:07] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:39:08] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:39:08] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:39:08] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:39:08] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:39:10] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:39:10] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:40:14] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:40:14] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:40:15] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:40:16] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:40:17] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:40:18] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:40:19] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:40:20] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:40:21] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:40:22] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:40:23] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:40:24] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:40:24] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:40:24] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:40:24] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:40:26] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:40:26] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:43:12] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:43:12] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:43:13] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:43:14] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:43:15] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:43:16] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:43:17] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:43:18] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:43:19] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:43:20] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:43:21] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:43:22] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:43:22] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:43:22] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:43:22] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:43:24] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:43:24] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:43:33] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-15 21:43:33] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-15 21:43:34] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:43:35] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:43:36] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:43:37] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:43:38] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:43:39] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:43:40] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:43:41] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:43:42] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:43:42] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:43:42] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:43:42] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:43:44] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:43:44] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:43:46] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:43:46] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:43:46] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:43:46] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:43:46] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:43:46] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:43:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:43:47] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:43:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:43:47] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:43:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:43:47] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:56:42] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 21:56:42] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 21:56:43] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 21:56:44] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 21:56:45] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 21:56:46] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 21:56:47] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 21:56:48] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 21:56:49] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 21:56:50] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 21:56:51] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:56:52] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 21:56:52] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 21:56:52] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:56:52] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:56:54] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:56:54] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:56:57] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:56:57] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:56:57] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:56:57] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:56:57] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 21:56:57] Evento: Puerta abierta automáticamente.
+[2024-11-15 21:56:57] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:56:57] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:56:57] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:56:57] Evento: Puerta cerrada automáticamente.
+[2024-11-15 21:56:57] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 21:56:57] Evento: Puerta cerrada automáticamente.
+[2024-11-15 22:06:59] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-15 22:06:59] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-15 22:07:00] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-15 22:07:01] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-15 22:07:02] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-15 22:07:03] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-15 22:07:04] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-15 22:07:05] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-15 22:07:06] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-15 22:07:07] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-15 22:07:08] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 22:07:09] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-15 22:07:09] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-15 22:07:09] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-15 22:07:09] Evento: Puerta abierta automáticamente.
+[2024-11-15 22:07:11] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-15 22:07:11] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:16:30] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-16 09:16:30] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-16 09:16:31] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-16 09:16:32] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-16 09:16:33] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-16 09:16:34] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-16 09:16:35] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-16 09:16:36] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-16 09:16:37] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-16 09:16:38] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-16 09:16:39] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-16 09:16:40] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-16 09:16:40] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-16 09:16:40] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:16:40] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:16:42] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:16:42] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:16:44] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:16:44] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:16:44] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:16:44] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:16:44] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:16:44] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:16:45] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:16:45] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:16:45] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:16:45] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:16:45] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:16:45] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:17:15] Ascensor 0: Solicitud de piso 7 registrada.
+[2024-11-16 09:17:15] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-16 09:17:16] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-16 09:17:17] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-16 09:17:18] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-16 09:17:19] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-16 09:17:20] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-16 09:17:21] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-16 09:17:22] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-16 09:17:23] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-16 09:17:23] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-16 09:17:23] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:17:23] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:17:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:17:25] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:22:01] EVP7: Llamando bomberos y ambulancias. Ascensor bloqueado por falla.
+[2024-11-16 09:22:08] Ascensor operativo nuevamente tras el bloqueo de 10 segundos.
+[2024-11-16 09:27:49] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:27:51] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
+[2024-11-16 09:28:02] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:28:04] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
+[2024-11-16 09:28:44] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:28:46] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
+[2024-11-16 09:32:19] EVP13: Excediendo el peso permitido, ¡haz dieta!
+[2024-11-16 09:32:24] EVP13: El evento de peso excedido ha finalizado.
+[2024-11-16 09:32:48] EVP13: Excediendo el peso permitido, ¡haz dieta!
+[2024-11-16 09:32:53] EVP13: El evento de peso excedido ha finalizado.
+[2024-11-16 09:32:58] EVP13: Excediendo el peso permitido, ¡haz dieta!
+[2024-11-16 09:35:18] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-16 09:35:18] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-16 09:35:19] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-16 09:35:20] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-16 09:35:21] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-16 09:35:22] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-16 09:35:23] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-16 09:35:24] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-16 09:35:25] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-16 09:35:26] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-16 09:35:28] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-16 09:35:29] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-16 09:35:29] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-16 09:35:29] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:35:29] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:35:31] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:35:31] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:35:52] EVP13: Excediendo el peso permitido, ¡haz dieta!
+[2024-11-16 09:35:57] EVP13: El evento de peso excedido ha finalizado.
+[2024-11-16 09:37:02] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:37:04] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
+[2024-11-16 09:39:53] EVP13: Excediendo el peso permitido
+[2024-11-16 09:39:58] EVP13: El evento de peso excedido ha finalizado.
+[2024-11-16 09:41:19] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:41:21] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
+[2024-11-16 09:41:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:25] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:25] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:25] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:25] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:28] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:41:28] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:41:28] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:41:28] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:41:28] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:41:28] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:41:29] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:29] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:29] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:29] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:29] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:29] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:32] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:41:32] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:41:32] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:41:32] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:41:32] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:41:32] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:41:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:47] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:47] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:47] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:41:47] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:41:51] EVP7: Llamando bomberos y ambulancias. Ascensor bloqueado por falla.
+[2024-11-16 09:41:58] Ascensor operativo nuevamente tras el bloqueo de 7 segundos.
+[2024-11-16 09:43:14] EVP7: Llamando bomberos y ambulancias. Ascensor bloqueado por falla.
+[2024-11-16 09:43:21] Ascensor operativo nuevamente tras el bloqueo de 7 segundos.
+[2024-11-16 09:43:24] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:43:26] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
+[2024-11-16 09:43:31] Ascensor 0: Solicitud de piso 9 registrada.
+[2024-11-16 09:43:31] Ascensor 0: Dirección cambiada a 'subir'.
+[2024-11-16 09:43:32] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-16 09:43:33] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-16 09:43:34] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-16 09:43:35] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-16 09:43:36] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-16 09:43:37] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-16 09:43:38] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-16 09:43:39] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-16 09:43:40] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-16 09:43:41] Ascensor 0: Piso actual actualizado a 9.
+[2024-11-16 09:43:41] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-16 09:43:41] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:43:41] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:43:43] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:43:46] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:43:49] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:43:49] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:43:49] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:43:49] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:43:49] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:43:49] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:43:51] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:43:51] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:43:51] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:43:51] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:43:51] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:43:51] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:43:57] EVP13: Excediendo el peso permitido
+[2024-11-16 09:44:02] EVP13: El evento de peso excedido ha finalizado.
+[2024-11-16 09:44:09] Ascensor 0: Solicitud de piso 1 registrada.
+[2024-11-16 09:44:09] Ascensor 0: Dirección cambiada a 'bajar'.
+[2024-11-16 09:44:10] Ascensor 0: Piso actual actualizado a 8.
+[2024-11-16 09:44:11] Ascensor 0: Piso actual actualizado a 7.
+[2024-11-16 09:44:12] Ascensor 0: Piso actual actualizado a 6.
+[2024-11-16 09:44:13] Ascensor 0: Piso actual actualizado a 5.
+[2024-11-16 09:44:14] Ascensor 0: Piso actual actualizado a 4.
+[2024-11-16 09:44:15] Ascensor 0: Piso actual actualizado a 3.
+[2024-11-16 09:44:16] Ascensor 0: Piso actual actualizado a 2.
+[2024-11-16 09:44:17] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-16 09:44:18] Ascensor 0: Piso actual actualizado a 1.
+[2024-11-16 09:44:18] Ascensor 0: Dirección cambiada a 'parado'.
+[2024-11-16 09:44:18] Evento EVP1: Puerta abierta automáticamente.
+[2024-11-16 09:44:18] Evento: Puerta abierta automáticamente.
+[2024-11-16 09:44:20] Evento EVP2: Puerta cerrada automáticamente.
+[2024-11-16 09:44:20] Evento: Puerta cerrada automáticamente.
+[2024-11-16 09:44:22] EVP11: Llamando al personal de mantenimiento...
+[2024-11-16 09:44:24] EVP11: Mantenimiento finalizado. Ascensor sigue operativo.
